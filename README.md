@@ -21,8 +21,3 @@ Essa é uma ótima opção para treinar suas habilidades em front-end ou até me
 ## 🚀 Como usar
 
 Você pode rodar esse projeto diretamente no seu navegador, sem precisar de servidor ou backend. Simples assim! 😄
-
-### 1. Clone o repositório
-
-```bash
-git clone https://github.com/seu-usuario/amigo-secreto.git
